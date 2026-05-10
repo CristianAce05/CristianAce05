@@ -45,5 +45,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layo
 - Instagram: https://instagram.com/cristianx6
 
 ---
+<div align="center">
+  
+![snake gif](https://github.com/CristianAce05/CristianAce05/blob/output/github-snake-dark.svg)
 
 ⚡ Always learning, always building ⚡
