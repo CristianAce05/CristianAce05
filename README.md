@@ -1,45 +1,60 @@
-<h1 align="center">Hey, I'm Cristian 👋</h1>
+# Hey, I'm Cristian 👋
 
-<p align="center">
-  💻 Software & Web Development Student <br>
-  🚀 Building projects, learning new technologies, and improving every day
-</p>
+💻 Software & Web Developer  
+🚀 Building clean, modern web experiences  
+📍 Puerto Rico  
 
 ---
 
-## 🌎 About Me
+## ⚡ About Me
 
-- 🎓 Studying Software & Web Development
-- ⚡ Interested in web apps, UI design, and software engineering
-- 🧠 Currently learning JavaScript, React, and backend development
-- 📍 Based in Puerto Rico
-- 🎯 Goal: Build impactful projects and grow as a developer
+- 🎓 Software & Web Development student  
+- 🌐 Focused on modern web apps & UI design  
+- 🧠 Learning React, JavaScript, and backend systems  
+- 🛠️ Building projects to improve every day  
+- 🎯 Goal: Become a full-stack developer and ship real products  
+
+---
+
+## 🧠 Current Focus
+
+- Improving JavaScript & React skills  
+- Building real-world projects  
+- Learning backend development  
+- Writing cleaner, scalable code  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+GitHub Stats:  
+https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true  
+
+Top Languages:  
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true  
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Mindset
 
-```txt
-Building projects.
-Learning consistently.
-Leveling up every day.
+“Code with purpose. Build with discipline. Improve daily.”
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/CristianAce05
+- LinkedIn: https://linkedin.com/in/cristian-acevedo-368697352 
+- Instagram: https://instagram.com/cristianx6
+
+---
+
+⚡ Always learning, always building ⚡
