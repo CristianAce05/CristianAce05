@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ About Me
+## ⚡About Me
 
 - 🎓 Software & Web Development student  
 - 🌐 Focused on modern web apps & UI design  
