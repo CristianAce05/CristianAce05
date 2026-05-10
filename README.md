@@ -16,15 +16,6 @@
 
 ---
 
-## 🧠 Current Focus
-
-- Improving JavaScript & React skills  
-- Building real-world projects  
-- Learning backend development  
-- Writing cleaner, scalable code  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
