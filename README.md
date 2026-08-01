@@ -1,6 +1,8 @@
 # Hey, I'm Cristian 👋
 
-💻 Aspiring Software Engineer focused on Full-Stack Development and Backend Systems, with experience building scalable and production-ready applications. Student at Holberton Coding School, gaining hands-on experience with Python, JavaScript, C, and Linux-based environments. 🚀 Particularly interested in system design, backend architecture, and building reliable, high-performance, scalable software. Passionate about solving complex engineering problems while continuously improving code quality and system efficiency.
+💻Software Engineer focused on Full-Stack Development and Backend Systems, with experience building scalable and production-ready applications. Holberton Coding School graduate with hands-on experience in Python, JavaScript, C, React, FastAPI, Docker, and Linux-based environments.
+
+🚀 Particularly interested in system design, backend architecture, cybersecurity, and building reliable, high-performance, scalable software. Passionate about solving complex engineering problems while continuously improving code quality, system efficiency, and user experience.
 
 ---
 
